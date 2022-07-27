@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/fifteen-puzzle-game/static/css/main.31d6cfe0.css",
+    "main.js": "/fifteen-puzzle-game/static/js/main.579a7a5a.js",
+    "index.html": "/fifteen-puzzle-game/index.html",
+    "main.579a7a5a.js.map": "/fifteen-puzzle-game/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
