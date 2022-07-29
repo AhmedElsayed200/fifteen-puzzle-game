@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fifteen-puzzle-game/static/css/main.0c723991.css",
+    "main.css": "/fifteen-puzzle-game/static/css/main.a7f4468f.css",
     "main.js": "/fifteen-puzzle-game/static/js/main.038b5b76.js",
     "index.html": "/fifteen-puzzle-game/index.html",
-    "main.0c723991.css.map": "/fifteen-puzzle-game/static/css/main.0c723991.css.map",
+    "main.a7f4468f.css.map": "/fifteen-puzzle-game/static/css/main.a7f4468f.css.map",
     "main.038b5b76.js.map": "/fifteen-puzzle-game/static/js/main.038b5b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c723991.css",
+    "static/css/main.a7f4468f.css",
     "static/js/main.038b5b76.js"
   ]
 }
