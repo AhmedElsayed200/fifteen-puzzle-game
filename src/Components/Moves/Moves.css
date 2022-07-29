@@ -1,0 +1,14 @@
+.moves {
+  display: inline-flex;
+  float: right;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 100%;
+  font-weight: 700;
+  height: 50px;
+  width: 40%;
+  border-radius: 10px;
+  background-color: rgb(61, 41, 99);
+  color: #ffffff;
+}

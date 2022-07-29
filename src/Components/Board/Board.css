@@ -1,0 +1,8 @@
+.board {
+  display: grid;
+  grid-template-rows: repeat(4, 23%);
+  grid-template-columns: repeat(4, 23%);
+  justify-content: space-around;
+  align-content: space-between;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,65 @@
+.cell {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Pacifico", cursive;
+  font-size: 150%;
+  background-color: rgb(106, 198, 184);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease 0s;
+  animation-duration: 0.75s;
+  animation-name: rsrjK;
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.right-cell {
+  background-color: rgb(232, 138, 69);
+}
+
+.empty-cell {
+  background-color: rgb(61, 41, 99);
+  border-radius: 10px;
+}
+
+.ball-1,
+.ball-2 {
+  position: absolute;
+  background-color: rgb(73, 149, 145);
+  opacity: 0.2;
+  border-radius: 50%;
+}
+
+.ball-1 {
+  height: 30px;
+  width: 30px;
+  top: 21px;
+  left: 19px;
+}
+
+.ball-2 {
+  height: 50px;
+  width: 50px;
+  bottom: 9px;
+  right: 10px;
+}
+
+.right-cell .ball-1,
+.right-cell .ball-2 {
+  background-color: rgb(205, 88, 58);
+}
+
+.animate {
+  animation-name: animate-pop;
+}
+@keyframes animate-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.5, 0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1, 1);
+  }
+}
