@@ -15,6 +15,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   font-family: "Pacifico", cursive;
   font-size: 300%;
   color: #ffffff;
@@ -42,6 +43,7 @@
 
 @media only screen and (max-width: 500px) {
   #game {
-    grid-template-columns: 70%;
+    grid-template-columns: 90%;
+    row-gap: 10px;
   }
 }
