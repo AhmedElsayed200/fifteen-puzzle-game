@@ -15,12 +15,12 @@ To run the Fifteen Puzzle Game on your local machine, follow these steps:
 
 1. Clone the project to your local repository:
 ```
-git clone https://github.com/ahmedelsayed200/CPUScheduler.git
+git clone https://github.com/AhmedElsayed200/fifteen-puzzle-game.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd CPUScheduler
+cd fifteen-puzzle-game
 ```
 
 3. Install project dependencies using Yarn or npm:
@@ -57,6 +57,6 @@ cd CPUScheduler
 
 You can also play the Fifteen Puzzle Game online by visiting the deployed version at:
 
-[https://ahmedelsayed200.github.io/CPUScheduler/](https://ahmedelsayed200.github.io/CPUScheduler/)
+[https://ahmedelsayed200.github.io/fifteen-puzzle-game/](https://ahmedelsayed200.github.io/fifteen-puzzle-game/)
 
 Enjoy solving the puzzle!
