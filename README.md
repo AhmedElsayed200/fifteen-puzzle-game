@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Fifteen Puzzle Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Fifteen Puzzle Game is a React application that challenges users to solve a classic sliding puzzle. The objective is to order the tiles from 1 to 15 by sliding them around the grid until they are in the correct numerical sequence.
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+This project was built using the following technologies:
 
-### `npm start`
+- React: A popular JavaScript library for building user interfaces.
+- CSS: For styling and layout design.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to Run the App
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run the Fifteen Puzzle Game on your local machine, follow these steps:
 
-### `npm test`
+1. Clone the project to your local repository:
+```
+git clone https://github.com/ahmedelsayed200/CPUScheduler.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Navigate to the project directory:
+```
+cd CPUScheduler
+```
 
-### `npm run build`
+3. Install project dependencies using Yarn or npm:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- If you prefer Yarn:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ```
+  yarn install
+  ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- If you prefer npm:
 
-### `npm run eject`
+  ```
+  npm install
+  ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Start the development server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- If you're using Yarn:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ```
+  yarn start
+  ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- If you're using npm:
 
-## Learn More
+  ```
+  npm start
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. The Fifteen Puzzle Game should now be accessible in your web browser at [http://localhost:3000](http://localhost:3000).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Play Online
 
-### Code Splitting
+You can also play the Fifteen Puzzle Game online by visiting the deployed version at:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[https://ahmedelsayed200.github.io/CPUScheduler/](https://ahmedelsayed200.github.io/CPUScheduler/)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy solving the puzzle!
