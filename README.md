@@ -2,6 +2,16 @@
 
 The Fifteen Puzzle Game is a React application that challenges users to solve a classic sliding puzzle. The objective is to order the tiles from 1 to 15 by sliding them around the grid until they are in the correct numerical sequence.
 
+![Home Page](./game-page.PNG)
+
+## Play Online
+
+You can play the Fifteen Puzzle Game online by visiting the deployed version at:
+
+[https://ahmedelsayed200.github.io/fifteen-puzzle-game/](https://ahmedelsayed200.github.io/fifteen-puzzle-game/)
+
+Enjoy solving the puzzle!
+
 ## Technologies Used
 
 This project was built using the following technologies:
@@ -14,11 +24,13 @@ This project was built using the following technologies:
 To run the Fifteen Puzzle Game on your local machine, follow these steps:
 
 1. Clone the project to your local repository:
+
 ```
 git clone https://github.com/AhmedElsayed200/fifteen-puzzle-game.git
 ```
 
 2. Navigate to the project directory:
+
 ```
 cd fifteen-puzzle-game
 ```
@@ -52,11 +64,3 @@ cd fifteen-puzzle-game
   ```
 
 5. The Fifteen Puzzle Game should now be accessible in your web browser at [http://localhost:3000](http://localhost:3000).
-
-## Play Online
-
-You can also play the Fifteen Puzzle Game online by visiting the deployed version at:
-
-[https://ahmedelsayed200.github.io/fifteen-puzzle-game/](https://ahmedelsayed200.github.io/fifteen-puzzle-game/)
-
-Enjoy solving the puzzle!
